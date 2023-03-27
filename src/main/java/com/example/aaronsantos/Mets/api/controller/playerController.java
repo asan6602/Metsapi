@@ -3,6 +3,7 @@ package com.example.aaronsantos.Mets.api.controller;
 import java.util.List;
 import java.util.Optional;
 
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -10,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.aaronsantos.Mets.api.model.player;
 import com.example.aaronsantos.Mets.service.playerService;
 
+@CrossOrigin
 @RestController
 public class playerController {
 
