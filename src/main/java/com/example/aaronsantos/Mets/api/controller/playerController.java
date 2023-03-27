@@ -36,4 +36,9 @@ public class playerController {
     public List<player> getPlayers() {
         return playerService.getPlayerList();
     }
+
+    @GetMapping("/random")
+    public player getRandom() {
+        return playerService.getRandom();
+    }
 }

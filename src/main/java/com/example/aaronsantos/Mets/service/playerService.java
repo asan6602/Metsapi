@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
+import java.util.Random;
 
 import org.springframework.stereotype.Service;
 
@@ -39,5 +40,11 @@ public class playerService {
             }
         }
         return optional;
+    }
+
+    public player getRandom() {
+        Random rand = new Random();
+        int index = rand.nextInt(playerList.size());
+        return this.playerList.get(index);
     }
 }
