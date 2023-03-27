@@ -23,3 +23,5 @@ top 25 bwar hitters, top 25 bwar pitchers, 2023 Mets
 {3}: Carlos Beltran
 
 {4}: Edgar Alfonzo
+
+{5}: Jose Reyes

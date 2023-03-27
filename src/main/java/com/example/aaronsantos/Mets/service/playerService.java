@@ -25,7 +25,7 @@ public class playerService {
         player p5= new player(4,7,"jose reyes","switch","right", 1983,2003,2018, "SS", 4,37.2);
 
 
-        playerList.addAll(Arrays.asList(p1,p2, p3, p4));
+        playerList.addAll(Arrays.asList(p1,p2, p3, p4, p5));
     }
     
     public List<player> getPlayerList() {
