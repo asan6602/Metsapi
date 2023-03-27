@@ -14,7 +14,7 @@ for a random player: random
 
 Who's included?:
 
-top 25 bwar hitters, top 25 bwar pitchers, 2023 Mets
+top 40 bwar hitters, top 30 bwar pitchers, 2023 Mets
 
 {0}: David Wright
 
