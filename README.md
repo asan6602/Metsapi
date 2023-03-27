@@ -8,10 +8,13 @@ for all players: players
 for a single player: player?id={id}
 
 
+
 Who's included?
 
 top 25 bwar hitters, top 25 bwar pitchers, 2023 Mets
 
 {1}: David Wright
+
 {2}: Daryl Strawberry
+
 {3}: Carlos Beltran
