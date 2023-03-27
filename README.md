@@ -16,12 +16,23 @@ Who's included?:
 
 top 25 bwar hitters, top 25 bwar pitchers, 2023 Mets
 
-{1}: David Wright
+{0}: David Wright
 
-{2}: Daryl Strawberry
+{1}: Daryl Strawberry
 
-{3}: Carlos Beltran
+{2}: Carlos Beltran
 
-{4}: Edgar Alfonzo
+{3}: Edgar Alfonzo
 
-{5}: Jose Reyes
+{4}: Jose Reyes
+
+{5}: Keith Hernandez
+
+{6}: Mike Piazza
+
+{7}: Howard Johnson
+
+{8}: Mookie Wilson
+
+{9}: John Stearns
+
