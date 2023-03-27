@@ -10,13 +10,11 @@ public class player {
     private int debutYear;
     private int retireYear;
     private String position;
-    private int height;
-    private int weight;
     private int allStars;
     private double bwar;
     
 
-    public player(int id, int number, String name, String bats, String hand, int birthYear, int debutYear, int retireYear, String position, int height, int weight, int allStars, double bwar) {
+    public player(int id, int number, String name, String bats, String hand, int birthYear, int debutYear, int retireYear, String position,int allStars, double bwar) {
         this.id = id;
         this.number = number;
         this.name = name;
@@ -26,8 +24,6 @@ public class player {
         this.debutYear = debutYear;
         this.retireYear = retireYear;
         this.position = position;
-        this.height = height;
-        this.weight = weight;
         this.allStars = allStars;
         this.bwar = bwar;
 
@@ -49,14 +45,6 @@ public class player {
         return position;
     }
 
-    public int getHeight() {
-        return height;
-    }
-
-    public int getWeight() {
-        return weight;
-    }
-    
     public int getAllStars() {
         return allStars;
     }
