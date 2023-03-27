@@ -7,6 +7,8 @@ for all players: players
 
 for a single player: player?id={id}
 
+for a random player: random
+
 
 
 
@@ -19,3 +21,5 @@ top 25 bwar hitters, top 25 bwar pitchers, 2023 Mets
 {2}: Daryl Strawberry
 
 {3}: Carlos Beltran
+
+{4}: Edgar Alfonzo
