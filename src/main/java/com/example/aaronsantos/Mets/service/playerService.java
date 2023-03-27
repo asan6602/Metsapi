@@ -46,9 +46,16 @@ public class playerService {
         player p24= new player(23,15,"daniel murphy","left","right", 1995,"2B", 3,20.4);
         player p25= new player(24,16,"lee mazzilli","switch","right", 1955,"CF", 1,15.6);
 
+        player p26= new player(25,12,"juan lagares","right","right", 1989,"CF", 0,11.2);
+        player p27= new player(26,6,"wally backman","switch","right", 1959,"2B", 0,13.1);
+        player p28= new player(27,8,"gary carter","right","right", 1954,"C",11,70.2);
+        player p29= new player(28,4,"robin ventura","left","right", 1967,"3B", 2,56.1);
+        player p30= new player(29,3,"curtis granderson","left","right", 1981,"CF", 3,47.2);
+
+        player p31= new player(30,12,"francisco lindor","switch","right", 1993,"SS", 4,36.7);
 
 
-        playerList.addAll(Arrays.asList(p1,p2, p3, p4, p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,p20));
+        playerList.addAll(Arrays.asList(p1,p2, p3, p4, p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,p20,p21,p22,p23,p24,p25,p26,p27,p28,p29,p30));
     }
     
     public List<player> getPlayerList() {
