@@ -46,3 +46,12 @@ top 25 bwar hitters, top 25 bwar pitchers, 2023 Mets
 
 {14}: Jeff McNeil
 
+{15}: Lenny Dykstra
+
+{16}: Kevin McReynolds
+
+{17}: Michael Conforto
+
+{18}: Jerry Grote
+
+{19}: Pete Alonso
