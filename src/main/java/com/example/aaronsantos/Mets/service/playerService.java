@@ -28,10 +28,15 @@ public class playerService {
         player p8= new player(7,20,"howard johnson","switch","right", 1960,"3B", 2,22.2);
         player p9= new player(8,1,"mookie wilson","switch","right", 1956,"CF", 0,22.4);
         player p10= new player(9,16,"john stearns","right","right", 1951,"C", 4,19.7);
+        player p11= new player(10,3,"bud harrelson","switch","right", 1944,"SS", 2,20.3);
+        player p12= new player(11,21,"cleon jones","right","left", 1963,"LF", 1,18.1);
+        player p13= new player(12,5,"john olerud","left","left", 1968,"1B", 2,58.2);
+        player p14= new player(13,9,"brandon nimmo","left","right", 1993,"CF", 0,17.2);
+        player p15= new player(14,1,"jeff mcneil","left","right", 1992,"2B", 2,16.9);
 
 
 
-        playerList.addAll(Arrays.asList(p1,p2, p3, p4, p5,p6,p7,p8,p9,p10));
+        playerList.addAll(Arrays.asList(p1,p2, p3, p4, p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15));
     }
     
     public List<player> getPlayerList() {

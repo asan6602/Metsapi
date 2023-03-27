@@ -36,3 +36,13 @@ top 25 bwar hitters, top 25 bwar pitchers, 2023 Mets
 
 {9}: John Stearns
 
+{10}: Bud Harrelson
+
+{11}: Cleon Jones
+
+{12}: John Olerud
+
+{13}: Brandon Nimmo
+
+{14}: Jeff McNeil
+
