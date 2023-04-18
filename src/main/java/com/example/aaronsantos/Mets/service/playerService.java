@@ -43,7 +43,7 @@ public class playerService {
         player p21= new player(20,20,"tommie agee","right","right", 1942,"CF", 2,25.4);
         player p22= new player(21,29,"dave magadan","left","right", 1962,"3B", 0,21.1);
         player p23= new player(22,11,"wayne garrett","left","right", 1947,"3B", 0,16.8);
-        player p24= new player(23,15,"daniel murphy","left","right", 1985,"2B", 3,20.4);
+        player p24= new player(23,28,"daniel murphy","left","right", 1985,"2B", 3,20.4);
         player p25= new player(24,16,"lee mazzilli","switch","right", 1955,"CF", 1,15.6);
 
         player p26= new player(25,12,"juan lagares","right","right", 1989,"CF", 0,11.2);
